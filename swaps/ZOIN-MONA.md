@@ -1,0 +1,4 @@
+[init MONA]([https://kmdexplorer.io/tx/091c6f3debf5ed6e4a9d43c01503ac508818cfcb4afd7f183acd9ab322891211](https://chaintools.mona-coin.de/tx/fa5e7dededd218686414d19d45d09ccfc4cbd69d6f4c7f727a0f1e9b890b8461))  
+[particiapte (ZOIN)]([https://chainz.cryptoid.info/aur/tx.dws?76ea4e2eb3da82a9007cc2b6add56df1bcdcffd0b1809d0e817a4059f568cc0e.htm](http://zoincommunity.com:3001/tx/509bff3ea44b9f973822b6e4df2a0ec337c0dcf57bd801137902698a11baed5f))  
+[redeem (ZOIN)]([https://kmdexplorer.io/tx/6e5eaa97014e55802a7f9364d3ba91af945283884090a4b2e44cbc8751d68703](http://zoincommunity.com:3001/tx/b54aca4c07062af9643386f0fa8c4e832dc4494f3bb84db7f04690855825847f))  
+[redeem (MONA)]([https://kmdexplorer.io/tx/9eab1eefa104df8153af7303bfcfcf5b53be7bfba0c34722bafa16f4f4f68e4a](https://chaintools.mona-coin.de/tx/c1bf5de5b93b553ebc86b613d19dbd8019e6663fbe5ec153031b5d80f882465e))  
